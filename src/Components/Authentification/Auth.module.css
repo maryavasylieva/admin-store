@@ -1,0 +1,39 @@
+.container {
+    min-height: 100vh;
+    background: url(../../assets/alois-arnegger-avstriiskii-zhivopisets-alois-arnegger-aus-12.jpg) no-repeat center top fixed;
+    background-size: cover;
+}
+
+.error {
+    color: #f5ead0;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  .inputError {
+    color: red;
+    margin-bottom: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+  input:focus:invalid {
+    outline: none;
+  }
+
+  #errorInput {
+    box-shadow: 0 0 5px 1px red;
+  }
+
+  input:focus:valid {
+    outline: none;
+  }
+
+  input:valid:not(:placeholder-shown) {
+    box-shadow: 0 0 5px 1px green;
+  }
