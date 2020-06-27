@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.js": "/admin-art-store/static/js/main.0ed38bba.chunk.js",
-    "main.js.map": "/admin-art-store/static/js/main.0ed38bba.chunk.js.map",
+    "main.js": "/admin-art-store/static/js/main.d9d1d144.chunk.js",
+    "main.js.map": "/admin-art-store/static/js/main.d9d1d144.chunk.js.map",
     "runtime-main.js": "/admin-art-store/static/js/runtime-main.1153544a.js",
     "runtime-main.js.map": "/admin-art-store/static/js/runtime-main.1153544a.js.map",
     "static/js/2.17ee67ba.chunk.js": "/admin-art-store/static/js/2.17ee67ba.chunk.js",
     "static/js/2.17ee67ba.chunk.js.map": "/admin-art-store/static/js/2.17ee67ba.chunk.js.map",
     "static/css/3.63b65d4e.chunk.css": "/admin-art-store/static/css/3.63b65d4e.chunk.css",
-    "static/js/3.8c572978.chunk.js": "/admin-art-store/static/js/3.8c572978.chunk.js",
-    "static/js/3.8c572978.chunk.js.map": "/admin-art-store/static/js/3.8c572978.chunk.js.map",
+    "static/js/3.f343437f.chunk.js": "/admin-art-store/static/js/3.f343437f.chunk.js",
+    "static/js/3.f343437f.chunk.js.map": "/admin-art-store/static/js/3.f343437f.chunk.js.map",
     "static/css/4.fd33ede6.chunk.css": "/admin-art-store/static/css/4.fd33ede6.chunk.css",
     "static/js/4.7af294e0.chunk.js": "/admin-art-store/static/js/4.7af294e0.chunk.js",
     "static/js/4.7af294e0.chunk.js.map": "/admin-art-store/static/js/4.7af294e0.chunk.js.map",
     "static/js/5.6f9a86fa.chunk.js": "/admin-art-store/static/js/5.6f9a86fa.chunk.js",
     "static/js/5.6f9a86fa.chunk.js.map": "/admin-art-store/static/js/5.6f9a86fa.chunk.js.map",
     "index.html": "/admin-art-store/index.html",
-    "precache-manifest.d8ceee33df79813d35e7a7f310537e01.js": "/admin-art-store/precache-manifest.d8ceee33df79813d35e7a7f310537e01.js",
+    "precache-manifest.3f7e58dea327225384ba7e0e2cbd6b83.js": "/admin-art-store/precache-manifest.3f7e58dea327225384ba7e0e2cbd6b83.js",
     "service-worker.js": "/admin-art-store/service-worker.js",
     "static/css/3.63b65d4e.chunk.css.map": "/admin-art-store/static/css/3.63b65d4e.chunk.css.map",
     "static/css/4.fd33ede6.chunk.css.map": "/admin-art-store/static/css/4.fd33ede6.chunk.css.map",
     "static/js/2.17ee67ba.chunk.js.LICENSE.txt": "/admin-art-store/static/js/2.17ee67ba.chunk.js.LICENSE.txt",
-    "static/js/3.8c572978.chunk.js.LICENSE.txt": "/admin-art-store/static/js/3.8c572978.chunk.js.LICENSE.txt",
+    "static/js/3.f343437f.chunk.js.LICENSE.txt": "/admin-art-store/static/js/3.f343437f.chunk.js.LICENSE.txt",
     "static/media/ArtistShopLogo.png": "/admin-art-store/static/media/ArtistShopLogo.60b38630.png",
     "static/media/Auth.module.css": "/admin-art-store/static/media/alois-arnegger-avstriiskii-zhivopisets-alois-arnegger-aus-12.7895de41.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1153544a.js",
     "static/css/3.63b65d4e.chunk.css",
-    "static/js/3.8c572978.chunk.js",
-    "static/js/main.0ed38bba.chunk.js"
+    "static/js/3.f343437f.chunk.js",
+    "static/js/main.d9d1d144.chunk.js"
   ]
 }
