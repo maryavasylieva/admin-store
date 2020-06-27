@@ -1,4 +1,5 @@
 import React from "react";
+import  {Link} from 'react-router-dom'
 import styled from "styled-components";
 
 import css from "./Auth.module.css";
@@ -12,9 +13,6 @@ const Authentification = ({
   handleSubmit,
   handleBlur
 }) => {
-
-
-
 
   return (
     <div className={css.container}>
@@ -60,6 +58,7 @@ const Authentification = ({
         </LoginForm>
         <Button type="submit">Войти</Button>
       </FormContainer>
+      <Link to="/main">Dashboard</Link>
     </div>
   );
 };

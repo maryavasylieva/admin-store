@@ -6,13 +6,13 @@ const AsyncDashboardPage = lazy(() => import('../Pages/DashboardPage') /* webpac
 
 
 export const routes = [
-    // {
-    //   path: "/",
-    //   component: AsyncAuthPage,
-    //   name: ""
-    // },
     {
-      path: "/dashboard",
+      path: "/",
+      component: AsyncAuthPage,
+      name: ""
+    },
+    {
+      path: "/main",
       component: AsyncDashboardPage,
       name: "Dashboard"
     }
