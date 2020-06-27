@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3621930cd4a57d2104c1e9d8779de56d",
+    "revision": "ef720b6ab823b87a59799c38771add86",
     "url": "/admin-art-store/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/admin-art-store/static/js/5.6f9a86fa.chunk.js"
   },
   {
-    "revision": "bc98aaab9830247b6921",
-    "url": "/admin-art-store/static/js/main.797e3a16.chunk.js"
+    "revision": "06e6f40ffd92a208adf2",
+    "url": "/admin-art-store/static/js/main.0ed38bba.chunk.js"
   },
   {
     "revision": "da161e4f599b3f6515f8",

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/admin-art-store/static/js/main.797e3a16.chunk.js",
-    "main.js.map": "/admin-art-store/static/js/main.797e3a16.chunk.js.map",
+    "main.js": "/admin-art-store/static/js/main.0ed38bba.chunk.js",
+    "main.js.map": "/admin-art-store/static/js/main.0ed38bba.chunk.js.map",
     "runtime-main.js": "/admin-art-store/static/js/runtime-main.1153544a.js",
     "runtime-main.js.map": "/admin-art-store/static/js/runtime-main.1153544a.js.map",
     "static/js/2.17ee67ba.chunk.js": "/admin-art-store/static/js/2.17ee67ba.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/5.6f9a86fa.chunk.js": "/admin-art-store/static/js/5.6f9a86fa.chunk.js",
     "static/js/5.6f9a86fa.chunk.js.map": "/admin-art-store/static/js/5.6f9a86fa.chunk.js.map",
     "index.html": "/admin-art-store/index.html",
-    "precache-manifest.ac64b84553333f294f343b3881c77e3c.js": "/admin-art-store/precache-manifest.ac64b84553333f294f343b3881c77e3c.js",
+    "precache-manifest.d8ceee33df79813d35e7a7f310537e01.js": "/admin-art-store/precache-manifest.d8ceee33df79813d35e7a7f310537e01.js",
     "service-worker.js": "/admin-art-store/service-worker.js",
     "static/css/3.63b65d4e.chunk.css.map": "/admin-art-store/static/css/3.63b65d4e.chunk.css.map",
     "static/css/4.fd33ede6.chunk.css.map": "/admin-art-store/static/css/4.fd33ede6.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.1153544a.js",
     "static/css/3.63b65d4e.chunk.css",
     "static/js/3.8c572978.chunk.js",
-    "static/js/main.797e3a16.chunk.js"
+    "static/js/main.0ed38bba.chunk.js"
   ]
 }
