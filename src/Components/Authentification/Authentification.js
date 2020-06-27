@@ -66,7 +66,7 @@ const Authentification = ({
 
 const ContainerImg = styled.div`
   margin-top: 12px;
-  outline: 2px solid red;
+  /* outline: 2px solid red; */
 `;
 
 const FormContainer = styled.div`
@@ -82,7 +82,7 @@ const LoginForm = styled.form`
   display: flex;
   flex-direction: column;
   padding-top: 20px;
-  outline: 2px solid red;
+  /* outline: 2px solid red; */
   @media screen and (min-width: 768px) {
     display: flex;
     flex-direction: column;
