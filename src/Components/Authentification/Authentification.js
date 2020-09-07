@@ -1,5 +1,5 @@
 import React from "react";
-import  {Link} from 'react-router-dom'
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 
 import css from "./Auth.module.css";
@@ -13,7 +13,6 @@ const Authentification = ({
   handleSubmit,
   handleBlur
 }) => {
-
   return (
     <div className={css.container}>
       <FormContainer>
@@ -58,7 +57,7 @@ const Authentification = ({
         </LoginForm>
         <Button type="submit">Войти</Button>
       </FormContainer>
-      <Link to="/main">Dashboard</Link>
+      <Link to="/main">Dashboard(test)</Link>
     </div>
   );
 };
@@ -91,11 +90,11 @@ const LoginForm = styled.form`
 
 const Text = styled.p`
   font-size: 18px;
-  color: ${({theme}) => theme.colors.black};
+  color: ${({ theme }) => theme.colors.black};
 `;
 
 const RequireField = styled.span`
-  color: ${({theme}) => theme.colors.requireRed};
+  color: ${({ theme }) => theme.colors.requireRed};
 `;
 
 const Input = styled.input`

@@ -21,7 +21,8 @@ const Header = () => {
       </Cont>
 
       <Cont>
-        <p>IMAGE, NAME</p>
+        <div><p>Name User</p></div>
+        <button></button>
       </Cont>
     </Wrapper>
   );
